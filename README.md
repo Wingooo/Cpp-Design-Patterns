@@ -1,6 +1,5 @@
 # Cpp-Design-Patterns
 
-------
 
 
 
