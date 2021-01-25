@@ -11,11 +11,11 @@
 
 ##### 三、面向对象软件设计流程
 
-![](2.JPG)
+![image](https://github.com/Wingooo/Cpp-Design-Patterns/blob/main/image/2.JPG)
 
 ##### 四、早绑定与晚绑定
 
-![](3.JPG)
+![image](https://github.com/Wingooo/Cpp-Design-Patterns/blob/main/image/3.JPG)
 
 ##### 四、总结
 
