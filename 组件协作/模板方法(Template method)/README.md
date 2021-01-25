@@ -7,7 +7,7 @@
 
 ##### 二、结构化软件设计流程
 
-![](1.JPG)
+![](https://github.com/Wingooo/Cpp-Design-Patterns/raw/main/组件模式/模板方法(Template method)/1.jpg)
 
 ##### 三、面向对象软件设计流程
 
