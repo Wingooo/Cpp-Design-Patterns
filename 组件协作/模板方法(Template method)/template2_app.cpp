@@ -12,7 +12,7 @@ protected:
 
 
 
-
+//直接调用run稳定的结构，根据虚函数去调用对应的子类函数 
 int main()
 	{
 	    Library* pLib=new Application();

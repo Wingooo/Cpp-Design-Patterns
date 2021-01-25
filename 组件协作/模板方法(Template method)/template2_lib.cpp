@@ -2,6 +2,8 @@
 class Library{
 public:
 	//稳定 template method
+	//开发流程的主程序由程序库开发人员完成 
+	//晚绑定：由程序库去调用应用开发函数，将其实现延迟 
     void Run(){
         
         Step1();
